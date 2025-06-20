@@ -26,7 +26,7 @@
 - [Overview](#overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation and frontend setup](#installation-frontendsetup)
+  - [Installation ](#installation)
   - [How to Run](#how-to-run)
 - [API Endpoints](#api-endpoints)
 - [Database Integration](#database-integration)
@@ -67,3 +67,7 @@ This project streamlines expense management by providing a solid backend archite
 git clone https://github.com/your-username/expense-tracker.git
 cd expense-tracker
 npm install
+
+```bash
+npm install express express-session flash ejs method-override mongoose dotenv
+
