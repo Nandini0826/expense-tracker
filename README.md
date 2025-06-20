@@ -79,7 +79,7 @@ npm install express express-session flash ejs method-override mongoose dotenv
 
 - Create a .env file in the root directory and add your MongoDB connection string:
 ```bash
-MONGODB_URI=mongodb://localhost:27017/expense-tracker
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/expense-tracker
 
 ```
 - Run the application:
@@ -90,5 +90,8 @@ nodemon app.js
 ```bash
 http://localhost:3000
 ```
+## Database Integration
+
+This project uses **MongoDB** as its primary database, integrated using **Mongoose**, a powerful Object Data Modeling (ODM) library for Node.js.
 
 
