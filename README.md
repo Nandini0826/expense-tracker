@@ -2,7 +2,8 @@
 
 *Master Your Money, Effortlessly and Confidently*
 
-![last commit](https://github.com/Nandini0826/expense-tracker)
+![last commit](<img alt="GitHub Gist last commit" src="https://img.shields.io/github/gist/last-commit/https%3A%2F%2Fgithub.com%2FNandini0826%2Fexpense-tracker">
+)
 ![ejs](https://img.shields.io/badge/ejs-54.6%25-blue?style=flat-square)
 ![languages](https://img.shields.io/github/languages/count/your-username/your-repo-name?style=flat-square)
 
