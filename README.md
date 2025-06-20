@@ -2,8 +2,8 @@
 
 *Master Your Money, Effortlessly and Confidently*
 
-![last commit](<img alt="GitHub Gist last commit" src="https://img.shields.io/github/gist/last-commit/https%3A%2F%2Fgithub.com%2FNandini0826%2Fexpense-tracker">
-)
+![last commit](https://img.shields.io/github/last-commit/Nandini0826/expense-tracker?style=flat-square)
+
 ![ejs](https://img.shields.io/badge/ejs-54.6%25-blue?style=flat-square)
 ![languages](https://img.shields.io/github/languages/count/your-username/your-repo-name?style=flat-square)
 
@@ -61,13 +61,35 @@ This project streamlines expense management by providing a solid backend archite
 - MongoDB
 - npm
 
-### Installation & frontend Setup
+### Installation & Frontend Setup
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Nandini0826/expense-tracker.git
 cd expense-tracker
 npm install
+npm install express express-session flash ejs method-override mongoose dotenv
+
+
+``` 
 
 ```bash
 npm install express express-session flash ejs method-override mongoose dotenv
+
+```
+### How to Run
+
+- Create a .env file in the root directory and add your MongoDB connection string:
+```bash
+MONGODB_URI=mongodb://localhost:27017/expense-tracker
+
+```
+- Run the application:
+```bash
+nodemon app.js
+```
+- Open your browser and go to
+```bash
+http://localhost:3000
+```
+
 
