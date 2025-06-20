@@ -14,7 +14,6 @@
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-red?style=for-the-badge&logo=mongoose)
 ![Dotenv](https://img.shields.io/badge/.ENV-yellow?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![EJS](https://img.shields.io/badge/EJS-green?style=for-the-badge)
@@ -31,12 +30,8 @@
   - [How to Run](#how-to-run)
 - [API Endpoints](#api-endpoints)
 - [Database Integration](#database-integration)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ---
-
-## Overview
 
 ## Overview
 
