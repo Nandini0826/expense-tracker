@@ -26,7 +26,7 @@
 - [Overview](#overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Installation and frontend setup](#installation-frontendsetup)
   - [How to Run](#how-to-run)
 - [API Endpoints](#api-endpoints)
 - [Database Integration](#database-integration)
@@ -61,7 +61,7 @@ This project streamlines expense management by providing a solid backend archite
 - MongoDB
 - npm
 
-### Installation
+### Installation & frontend Setup
 
 ```bash
 git clone https://github.com/your-username/expense-tracker.git
