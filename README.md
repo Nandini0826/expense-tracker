@@ -64,8 +64,6 @@ This project streamlines expense management by providing a solid backend archite
 git clone https://github.com/Nandini0826/expense-tracker.git
 cd expense-tracker
 npm install
-npm install express express-session flash ejs method-override mongoose dotenv
-
 
 ``` 
 
