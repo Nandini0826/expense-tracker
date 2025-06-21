@@ -88,6 +88,13 @@ nodemon app.js
 ```bash
 http://localhost:3000
 ```
+## API endpoints
+
+- GET / – fetches all expenses  
+- POST / – adds a new expense
+- PUT / – updates the details of the expenses
+- DELETE / – deletes a particular expense
+  
 ## Database Integration
 
 This project uses **MongoDB** as its primary database, integrated using **Mongoose**, a powerful Object Data Modeling (ODM) library for Node.js.
