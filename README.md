@@ -97,4 +97,18 @@ http://localhost:3000
 
 This project uses **MongoDB** as its primary database, integrated using **Mongoose**, a powerful Object Data Modeling (ODM) library for Node.js.
 
+## Testing
+
+### Frameworks Used
+- Jest
+- Supertest
+- MongoDB Memory Server (for safe DB mocking)
+
+### Run Tests
+
+```bash
+npm install
+npm test
+
+
 
