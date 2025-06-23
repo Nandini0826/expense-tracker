@@ -100,15 +100,19 @@ This project uses **MongoDB** as its primary database, integrated using **Mongoo
 ## Testing
 
 ### Frameworks Used
-- Jest
-- Supertest
-- MongoDB Memory Server (for safe DB mocking)
+- Jest: Unit + integration testing
+- Supertest: API endpoint testing
+- MongoDB Memory Server: In-memory DB for isolated DB tests
 
 ### Run Tests
 
 ```bash
 npm install
 npm test
+```
+### Test Coverage Report
+![image](https://github.com/user-attachments/assets/a4563d19-8eff-40d1-9872-612a765bface)
+
 
 
 
